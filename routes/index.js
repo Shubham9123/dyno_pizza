@@ -1,13 +1,20 @@
-var express = require('express');
-var router = express.Router();
+let data = require('../public/js/dyno_pizza.json')
+let express = require('express');
+let router = express.Router();
 
+
+console.log(data)
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
+  res.render('index', { title: 'Express',data:data });
+});
+
+router.get('/index*', function(req, res, next) {
+  res.render('index', { title: 'Express',data:data });
 });
 
 router.get('/menu*', function(req, res, next) {
-  res.render('menu', { title: 'Express' });
+  res.render('menu', { data:data });
 });
 
 router.get('/about*', function(req, res, next) {
