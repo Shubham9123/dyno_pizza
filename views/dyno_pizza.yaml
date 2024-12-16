@@ -1,0 +1,104 @@
+restaurant_name: "Dyno Pizza"
+food:
+  premium_pizza:
+    - name: "Dyno King"
+      photo: "images/f1"
+      prices: [320, 530, 750]
+    - name: "Farm House"
+      photo: "images/f1"
+      prices: [280, 490, 650]
+    - name: "Spicy Veg"
+      photo: "images/f1"
+      prices: [280, 490, 650]
+    - name: "Tandoori Paneer"
+      photo: "images/f1"
+      prices: [250, 450, 600]
+    - name: "Paneer Bite"
+      photo: "images/f1"
+      prices: [250, 450, 600]
+    - name: "Paneer Choice"
+      photo: "images/f1"
+      prices: [250, 450, 600]
+  
+  economy_pizza:
+    - name: "Onion"
+      photo: "images/f1"
+      prices: [100]
+    - name: "Green Capsicum"
+      photo: "images/f1"
+      prices: [120]
+    - name: "Tomato"
+      photo: "images/f1"
+      prices: [100]
+    - name: "Sweet Corn"
+      photo: "images/f1"
+      prices: [120]
+    - name: "Onion Paneer"
+      photo: "images/f1"
+      prices: [180]
+    - name: "Onion Capsicum"
+      photo: "images/f1"
+      prices: [150]
+    - name: "Onion Sweet Corn"
+      photo: "images/f1"
+      prices: [150]
+  
+  pasta:
+    - name: "White Sauce Pasta"
+      photo: "images/f1"
+      prices: [140]
+    - name: "Red Sauce Pasta"
+      photo: "images/f1"
+      prices: [160]
+    - name: "Mexican Chipotle Pasta"
+      photo: "images/f1"
+      prices: [160]
+    - name: "Italian Masala Pasta"
+      photo: "images/f1"
+      prices: [160]
+  
+  burger:
+    - name: "Classic Burger"
+      photo: "images/f1"
+      prices: [60]
+    - name: "Aloo Tikki Burger"
+      photo: "images/f1"
+      prices: [80]
+    - name: "Schezwan Burger"
+      photo: "images/f1"
+      prices: [100]
+    - name: "Makhani Burger"
+      photo: "images/f1"
+      prices: [120]
+    - name: "Veg Sandwich"
+      photo: "images/f1"
+      prices: [100]
+    - name: "Paneer Sandwich"
+      photo: "images/f1"
+      prices: [150]
+  
+  sides:
+    - name: "Veg Cheese Calzone"
+      photo: "images/f1"
+      prices: [160]
+    - name: "Spicy Calzone"
+      photo: "images/f1"
+      prices: [180]
+    - name: "Garlic Bread"
+      photo: "images/f1"
+      prices: [150]
+    - name: "Stuffed Garlic Bread"
+      photo: "images/f1"
+      prices: [180]
+    - name: "Cheese Garlic Bread"
+      photo: "images/f1"
+      prices: [180]
+    - name: "Choco Lava Cake"
+      photo: "images/f1"
+      prices: [99]
+    - name: "Fries"
+      photo: "images/f1"
+      prices: [80]
+    - name: "Peri Peri Fries"
+      photo: "images/f1"
+      prices: [100]

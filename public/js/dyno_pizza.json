@@ -1,0 +1,240 @@
+{
+    "resturant_name": "dyno pizza",
+    "food": {
+      "premium pizza": [
+        {
+          "dyno king": null,
+          "photo": "images/f1",
+          "prices": [
+            320,
+            530,
+            750
+          ]
+        },
+        {
+          "farm house": null,
+          "photo": "images/f1",
+          "prices": [
+            280,
+            490,
+            650
+          ]
+        },
+        {
+          "spicy veg": null,
+          "photo": "images/f1",
+          "prices": [
+            280,
+            490,
+            650
+          ]
+        },
+        {
+          "tandoori paneer": null,
+          "photo": "images/f1",
+          "prices": [
+            250,
+            450,
+            600
+          ]
+        },
+        {
+          "paneer bite": null,
+          "photo": "images/f1",
+          "prices": [
+            250,
+            450,
+            600
+          ]
+        },
+        {
+          "paneer choice": null,
+          "photo": "images/f1",
+          "prices": [
+            250,
+            450,
+            600
+          ]
+        }
+      ],
+      "economy pizza": [
+        {
+          "onion": null,
+          "photo": "images/f1",
+          "prices": null
+        },
+        {
+          "green capsicum": [
+            120
+          ]
+        },
+        {
+          "tomato": null,
+          "photo": "images/f1",
+          "prices": [
+            100
+          ]
+        },
+        {
+          "sweet corn": null,
+          "photo": "images/f1",
+          "prices": [
+            120
+          ]
+        },
+        {
+          "onion paneer": null,
+          "photo": "images/f1",
+          "prices": [
+            180
+          ]
+        },
+        {
+          "onion capsicum": null,
+          "photo": "images/f1",
+          "prices": [
+            150
+          ]
+        },
+        {
+          "onion sweetcorn": null,
+          "photo": "images/f1",
+          "prices": [
+            150
+          ]
+        }
+      ],
+      "pasta": [
+        {
+          "white sauce pasta": null,
+          "photo": "images/f1",
+          "prices": [
+            140
+          ]
+        },
+        {
+          "red sauce pasta": null,
+          "photo": "images/f1",
+          "prices": [
+            160
+          ]
+        },
+        {
+          "mexican chipotle pasta": null,
+          "photo": "images/f1",
+          "prices": [
+            160
+          ]
+        },
+        {
+          "italian masala pasta": null,
+          "photo": "images/f1",
+          "prices": [
+            160
+          ]
+        }
+      ],
+      "burger": [
+        {
+          "classic burger": null,
+          "photo": "images/f1",
+          "prices": [
+            60
+          ]
+        },
+        {
+          "aloo tikki burger": null,
+          "photo": "images/f1",
+          "prices": [
+            80
+          ]
+        },
+        {
+          "schezwan burger": null,
+          "photo": "images/f1",
+          "prices": [
+            100
+          ]
+        },
+        {
+          "makhani burger": null,
+          "photo": "images/f1",
+          "prices": [
+            120
+          ]
+        },
+        {
+          "veg sandwich": null,
+          "photo": "images/f1",
+          "prices": [
+            100
+          ]
+        },
+        {
+          "paneer sandwich": null,
+          "photo": "images/f1",
+          "prices": [
+            150
+          ]
+        }
+      ],
+      "sides": [
+        {
+          "veg cheese calzone": null,
+          "photo": "images/f1",
+          "prices": [
+            160
+          ]
+        },
+        {
+          "spicy calzone": null,
+          "photo": "images/f1",
+          "prices": [
+            180
+          ]
+        },
+        {
+          "garlic bread": null,
+          "photo": "images/f1",
+          "prices": [
+            150
+          ]
+        },
+        {
+          "stuff garlic bread": null,
+          "photo": "images/f1",
+          "prices": [
+            180
+          ]
+        },
+        {
+          "cheese garlic bread": null,
+          "photo": "images/f1",
+          "prices": [
+            180
+          ]
+        },
+        {
+          "choco lava cake": null,
+          "photo": "images/f1",
+          "prices": [
+            99
+          ]
+        },
+        {
+          "fries": null,
+          "photo": "images/f1",
+          "prices": [
+            80
+          ]
+        },
+        {
+          "peri peri fries": null,
+          "photo": "images/f1",
+          "prices": [
+            100
+          ]
+        }
+      ]
+    }
+  }
